@@ -349,7 +349,7 @@ docker compose down
 
 ### Local, sin Docker
 
-Necesitás SQL Server y RabbitMQ corriendo (podés levantar solo esos dos con Docker) y el SDK de .NET 8:
+Necesitas SQL Server y RabbitMQ corriendo (puedes levantar solo esos dos con Docker) y el SDK de .NET 8:
 
 ```bash
 dotnet restore
